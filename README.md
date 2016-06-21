@@ -1,1 +1,3 @@
 # dhcp-ha
+
+see wiki
